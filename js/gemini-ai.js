@@ -1,6 +1,6 @@
 // إعدادات Gemini AI لمنصة بطلة اللغة العربية
 
-ضعي_مفتاحك_هنا
+const GEMINI_API_KEY = ضعي_مفتاحك_هنا;
 
 const GEMINI_MODELS = [
   "gemini-1.5-flash"
